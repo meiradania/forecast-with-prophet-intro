@@ -1,2 +1,9 @@
 # forecast-with-prophet-intro
-Using the Prophet package published by Facebook to do time series forecasting. This is a beginner's level 2h walk-through (https://facebook.github.io/prophet/)  Tuesday, April 27 6:00 PM (GMT+2 or Hamburg time)  Details here: https://www.meetup.com/PyLadies-Hamburg/events/275810807/   super interesting tutorial! Would you recommend it for a Python-intermediate but forecasting-noob? I was looking into forecasting with Prophet for healthcare data for a project I'm working on. Thanks! :+1: 1   Dânia Meira  21 hours ago Hey Christina, yes totally recommended. We are going to start from basics of both time series forecasting and Prophet. Previous python knowledge helps, specially if you have worked before with pandas and scikit-learn
+
+Using the Prophet package (https://facebook.github.io/prophet/) to do time series forecasting. 
+
+This is a beginner's level walk-through.
+We are starting from basics of time series and forecasting and Prophet. Previous python knowledge helps, specially if you have worked before with pandas and scikit-learn.
+
+Material for the PyLadies Hamburg session on Tuesday, April 27 2021
+Details at: https://www.meetup.com/PyLadies-Hamburg/events/275810807/  
